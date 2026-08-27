@@ -1,3 +1,4 @@
+import random
 def new_list():
     newlist = {
         "first": None,
